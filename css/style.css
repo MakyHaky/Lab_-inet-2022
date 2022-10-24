@@ -1,6 +1,6 @@
 body {
     background: #ffffff;
-    font-family: 'Calibti', sans-serif;
+    font-family: 'Calibri', sans-serif;
     font-style: normal;
     font-weight: normal;
 }
@@ -34,17 +34,17 @@ h3 {
 
 h4 {
   color: #353535;
-  font-size: 15px;
+  font-size: 20px;
 }
 p {
   color: #797979b4;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: normal;
   letter-spacing: 0.2px;
 }
 a {
   color: #353535;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 /*---------------------------------------
