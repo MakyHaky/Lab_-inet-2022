@@ -20,7 +20,7 @@
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/)
 
 ## ✅ Лабораторная работа № 3
-Настройка локальной сети передачи данных
+Настройка локальной сети передачи данных: [Отчёт](https://docs.google.com/document/d/1KPWCUPNPsixHhjjiO9HfEgfAFyNu5vBBsWE2osw41hU/edit?usp=sharing)
 
 ## ✅ Экзаменационные билет №13
 
