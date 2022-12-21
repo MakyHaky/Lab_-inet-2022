@@ -17,12 +17,13 @@
 
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [Чисто и тОчка](https://github.com/MakyHaky/ChistoTochka)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/MakyHaky/ChistoTochka/wiki)
 
 ## ✅ Лабораторная работа № 3
-Настройка локальной сети передачи данных: [Отчёт](https://docs.google.com/document/d/1KPWCUPNPsixHhjjiO9HfEgfAFyNu5vBBsWE2osw41hU/edit?usp=sharing)
+Настройка локальной сети передачи данных: [Отчёт](https://drive.google.com/file/d/1Akf87fxnrbVGNUhCZppwLvI4ogEzbjha/view?usp=share_link)
 
 ## ✅ Экзаменационные билет №13
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №13](https://github.com/stankin/inet-2022/wiki/exams#билет-13)
+[билет №13](https://github.com/stankin/inet-2022/wiki/exams#билет-13)<br>
+[Ссылка на сравнение ревизий](https://github.com/stankin/inet-2022/wiki/exam13/_compare/1f8b4e9934ea26fd93185560a376de28a3376d87...76f7bed82c1f51b46f77cdf25d6020ce281da239)
